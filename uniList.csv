@@ -1,0 +1,161 @@
+national_anking, university_name, town
+52,	Aberystwyth University,	Aberystwyth
+80,	Anglia Ruskin University,	Cambridge
+136,	Arts University Bournemouth,	Poole
+73,	Aston University,	Birmingham
+62,	Bangor University,	Bangor
+109,	Bath Spa University,	Bath
+46,	Birkbeck University of London,	London
+84,	Birmingham City University,	Birmingham
+155,	Bishop Grosseteste, University	Lincoln
+74,	Bournemouth University,	Poole
+47,	Brunel University London,	Uxbridge
+132,	Buckinghamshire New University,	High Wycombe
+104,	Canterbury Christ Church University,	Canterbury
+127,	Cardiff Metropolitan University,	Cardiff
+31,	Cardiff University,	Cardiff
+37,	City University of London,	London
+61,	Coventry University,	Coventry
+59,	Cranfield University,	Cranfield
+56,	De Montfort University,	Leicester
+19,	Durham University,	Durham
+110,	Edge Hill University,	Ormskirk
+81,	Edinburgh Napier University,	Edinburgh
+159,	European School of Economics,	London
+113,	Falmouth University,	Falmouth
+102,	Glasgow Caledonian University,	Glasgow
+107,	Glasgow School of Art,	Glasgow
+119,	Glyndwr Universit,y	Wrexham
+49,	Goldsmiths University of London,	London
+140,	Harper Adams University,	Newport
+41,	Heriot-Watt University,	Edinburgh
+151,	Heythrop College,	London
+10,	Imperial College London,	London
+65,	Keele University,	Keele
+14,	King's College London,	London
+70,	Kingston University,	Kingston upon Thames
+15,	Lancaster University,	Lancaster
+69,	Leeds Beckett University,	Leeds
+156,	Leeds College of Art,	Leeds
+150,	Leeds College of Music,	Leeds
+148,	Leeds Trinity University,	Leeds
+124,	Liverpool Hope University,	Liverpool
+152,	Liverpool Institute for Performing Arts,	Liverpool
+98,	Liverpool John Moores University,	Liverpool
+75,	London Business School,	London
+85,	London Metropolitan University,	London
+71,	London School of Hygiene and Tropical Medicine,	London
+87,	London South Bank University,	London
+34,	Loughborough University,	Loughborough
+53,	Manchester Metropolitan University,	Manchester
+72,	Middlesex University,	London
+13,	Newcastle University,	Newcastle
+149,	Newman University,	Birmingham
+160,	Northern School of Contemporary Dance,	Leeds
+78,	Northumbria University,	Newcastle
+153,	Norwich University of the Arts,	Norwich
+51,	Nottingham Trent University,	Nottingham
+66,	Oxford Brookes University,	Oxford
+157,	Plymouth College of Art,	Plymouth
+54,	Plymouth University,	Plymouth
+121	Queen Margaret University,	Edinburgh
+22,	Queen Mary University of London,	London
+35,	Queen's University Belfast,	Belfast
+128,	Ravensbourne,	London
+135,	Regent's University London,	London
+145, The American International University in London,	London
+92,	Robert Gordon University,	Aberdeen
+158,	Rose Bruford College,	London
+126,	Royal Academy of Music University of London,	London
+154,	Royal Agricultural University,	Cirencester
+67,	Royal College of Art,	London
+114,	Royal College of Music,	London
+142,	Royal Conservatoire of Scotland,	Glasgow
+43,	Royal Holloway, University of London,	Egham
+130,	Royal Northern College of Music,	Manchester
+105,	Royal Veterinary College University of London,	London
+94,	School of Advanced Study University of London,	London
+122,	Scotland's Rural College,	Edinburgh
+45,	Sheffield Hallam University,	Sheffield
+50,	SOAS University of London,	London
+106,	Southampton Solent University,	Southampton
+116,	St George's University of London,	London
+134,	St Mary's University Twickenham,	Twickenham
+93,	Staffordshire University,	Stoke-on-Trent
+42,	Swansea University,	Swansea
+97,	Teesside University,	Middlesbrough
+103,	The Courtauld Institute of Art University of London,	London
+6,	The London School of Economics and Political Science,	London
+138,	The Royal Central School of Speech and Drama,	London
+118,	The University of Buckingham,	Buckingham
+4,	The University of Edinburgh,	Edinburgh
+64,	The University of Hull,	Hull
+144,	The University of Law,	Guildford
+5,	The University of Manchester,	Manchester
+99,	The University of Northampton,	Northampton
+12,	The University of Nottingham,	Nottingham
+17,	The University of Sheffield,	Sheffield
+11,	The University of Warwick,	Coventry
+120,	The University of Winchester,	Winchester
+16,	The University of York,	York
+139,	Trinity Laban Conservatoire of Music and Dance,	London
+82,	Ulster University,	Coleraine
+147,	University College Birmingham,	Birmingham
+3,	University College London,	London
+123,	University for the Creative Arts,	Canterbury
+30,	University of Aberdeen,	Aberdeen
+125,	University of Abertay Dundee,	Dundee
+25,	University of Bath,	Bath
+95,	University of Bedfordshire,	Luton
+27,	University of Birmingham,	Birmingham
+112,	University of Bolton,	Bolton
+100,	University of Bradford,	Bradford
+60,	University of Brighton,	Brighton
+28,	University of Bristol,	Bristol
+2,	University of Cambridge,	Cambridge
+77,	University of Central Lancashire,	Preston
+108,	University of Chester,	Chester
+141,	University of Chichester,	Chichester
+129,	University of Cumbria,	Carlisle
+91,	University of Derby	Derby
+39,	University of Dundee,	Dundee
+29,	University of East Anglia,	Norwich
+86,	University of East London,	London
+38,	University of Essex,	Colchester
+20,	University of Exeter,	Exeter
+8,	University of Glasgow,	Glasgow
+111,	University of Gloucestershire,	Cheltenham
+63,	University of Greenwich,	London
+57,	University of Hertfordshire,	Hatfield
+88,	University of Huddersfield,	Huddersfield
+23,	University of Kent,	Canterbury
+7,	University of Leeds,	Leeds
+18,	University of Leicester,	Leicester
+89,	University of Lincoln,	Lincoln
+33,	University of Liverpool,	Liverpool
+68,	University of London,	London
+1,	University of Oxford,	Oxford
+48,	University of Portsmouth,	Portsmouth
+32,	University of Reading,	Reading
+101,	University of Roehampton,	Roehampton
+55,	University of Salford,	Salford
+83,	University of South Wales,	Pontypridd
+9,	University of Southampton,	Southampton
+21,	University of St Andrews,	St Andrews
+146,	University of St Mark and St John,	Plymouth
+58,	University of Stirling,	Stirling
+36,	University of Strathclyde,	Glasgow
+90,	University of Sunderland,	Sunderland
+24,	University of Surrey,	Guildford
+26,	University of Sussex,	Brighton
+40,	University of the Arts London,	London
+96,	University of the Highlands and Islands,	Inverness
+44,	University of the West of England,	Bristol
+117,	University of the West of Scotland,	Paisley
+143,	University of Wales,	Cardiff
+133,	University of Wales Trinity Saint David,	Carmarthen
+115,	University of West London,	Ealing
+76,	University of Westminster,	London
+79,	University of Wolverhampton,	Wolverhampton
+137,	University of Worcester,	Worcester
+131,	York St John University,	York

@@ -1,0 +1,802 @@
+[
+  {
+    "national_ranking": 52,
+    "university_name": "Aberystwyth University",
+    "town": "Aberystwyth"
+  },
+  {
+    "national_ranking": 80,
+    "university_name": "Anglia Ruskin University",
+    "town": "Cambridge"
+  },
+  {
+    "national_ranking": 136,
+    "university_name": "Arts University Bournemouth",
+    "town": "Poole"
+  },
+  {
+    "national_ranking": 73,
+    "university_name": "Aston University",
+    "town": "Birmingham"
+  },
+  {
+    "national_ranking": 62,
+    "university_name": "Bangor University",
+    "town": "Bangor"
+  },
+  {
+    "national_ranking": 109,
+    "university_name": "Bath Spa University",
+    "town": "Bath"
+  },
+  {
+    "national_ranking": 46,
+    "university_name": "Birkbeck University of London",
+    "town": "London"
+  },
+  {
+    "national_ranking": 84,
+    "university_name": "Birmingham City University",
+    "town": "Birmingham"
+  },
+  {
+    "national_ranking": 155,
+    "university_name": "Bishop Grosseteste University",
+    "town": "Lincoln"
+  },
+  {
+    "national_ranking": 74,
+    "university_name": "Bournemouth University",
+    "town": "Poole"
+  },
+  {
+    "national_ranking": 47,
+    "university_name": "Brunel University London",
+    "town": "Uxbridge"
+  },
+  {
+    "national_ranking": 132,
+    "university_name": "Buckinghamshire New University",
+    "town": "High Wycombe"
+  },
+  {
+    "national_ranking": 104,
+    "university_name": "Canterbury Christ Church University",
+    "town": "Canterbury"
+  },
+  {
+    "national_ranking": 127,
+    "university_name": "Cardiff Metropolitan University",
+    "town": "Cardiff"
+  },
+  {
+    "national_ranking": 31,
+    "university_name": "Cardiff University",
+    "town": "Cardiff"
+  },
+  {
+    "national_ranking": 37,
+    "university_name": "City University of London",
+    "town": "London"
+  },
+  {
+    "national_ranking": 61,
+    "university_name": "Coventry University",
+    "town": "Coventry"
+  },
+  {
+    "national_ranking": 59,
+    "university_name": "Cranfield University",
+    "town": "Cranfield"
+  },
+  {
+    "national_ranking": 56,
+    "university_name": "De Montfort University",
+    "town": "Leicester"
+  },
+  {
+    "national_ranking": 19,
+    "university_name": "Durham University",
+    "town": "Durham"
+  },
+  {
+    "national_ranking": 110,
+    "university_name": "Edge Hill University",
+    "town": "Ormskirk"
+  },
+  {
+    "national_ranking": 81,
+    "university_name": "Edinburgh Napier University",
+    "town": "Edinburgh"
+  },
+  {
+    "national_ranking": 159,
+    "university_name": "European School of Economics",
+    "town": "London"
+  },
+  {
+    "national_ranking": 113,
+    "university_name": "Falmouth University",
+    "town": "Falmouth"
+  },
+  {
+    "national_ranking": 102,
+    "university_name": "Glasgow Caledonian University",
+    "town": "Glasgow"
+  },
+  {
+    "national_ranking": 107,
+    "university_name": "Glasgow School of Art",
+    "town": "Glasgow"
+  },
+  {
+    "national_ranking": 119,
+    "university_name": "Glyndwr University",
+    "town": "Wrexham"
+  },
+  {
+    "national_ranking": 49,
+    "university_name": "Goldsmiths University of London",
+    "town": "London"
+  },
+  {
+    "national_ranking": 140,
+    "university_name": "Harper Adams University",
+    "town": "Newport"
+  },
+  {
+    "national_ranking": 41,
+    "university_name": "Heriot-Watt University",
+    "town": "Edinburgh"
+  },
+  {
+    "national_ranking": 151,
+    "university_name": "Heythrop College",
+    "town": "London"
+  },
+  {
+    "national_ranking": 10,
+    "university_name": "Imperial College London",
+    "town": "London"
+  },
+  {
+    "national_ranking": 65,
+    "university_name": "Keele University",
+    "town": "Keele"
+  },
+  {
+    "national_ranking": 14,
+    "university_name": "King's College London",
+    "town": "London"
+  },
+  {
+    "national_ranking": 70,
+    "university_name": "Kingston University",
+    "town": "Kingston upon Thames"
+  },
+  {
+    "national_ranking": 15,
+    "university_name": "Lancaster University",
+    "town": "Lancaster"
+  },
+  {
+    "national_ranking": 69,
+    "university_name": "Leeds Beckett University",
+    "town": "Leeds"
+  },
+  {
+    "national_ranking": 156,
+    "university_name": "Leeds College of Art",
+    "town": "Leeds"
+  },
+  {
+    "national_ranking": 150,
+    "university_name": "Leeds College of Music",
+    "town": "Leeds"
+  },
+  {
+    "national_ranking": 148,
+    "university_name": "Leeds Trinity University",
+    "town": "Leeds"
+  },
+  {
+    "national_ranking": 124,
+    "university_name": "Liverpool Hope University",
+    "town": "Liverpool"
+  },
+  {
+    "national_ranking": 152,
+    "university_name": "Liverpool Institute for Performing Arts",
+    "town": "Liverpool"
+  },
+  {
+    "national_ranking": 98,
+    "university_name": "Liverpool John Moores University",
+    "town": "Liverpool"
+  },
+  {
+    "national_ranking": 75,
+    "university_name": "London Business School",
+    "town": "London"
+  },
+  {
+    "national_ranking": 85,
+    "university_name": "London Metropolitan University",
+    "town": "London"
+  },
+  {
+    "national_ranking": 71,
+    "university_name": "London School of Hygiene and Tropical Medicine",
+    "town": "London"
+  },
+  {
+    "national_ranking": 87,
+    "university_name": "London South Bank University",
+    "town": "London"
+  },
+  {
+    "national_ranking": 34,
+    "university_name": "Loughborough University",
+    "town": "Loughborough"
+  },
+  {
+    "national_ranking": 53,
+    "university_name": "Manchester Metropolitan University",
+    "town": "Manchester"
+  },
+  {
+    "national_ranking": 72,
+    "university_name": "Middlesex University",
+    "town": "London"
+  },
+  {
+    "national_ranking": 13,
+    "university_name": "Newcastle University",
+    "town": "Newcastle"
+  },
+  {
+    "national_ranking": 149,
+    "university_name": "Newman University",
+    "town": "Birmingham"
+  },
+  {
+    "national_ranking": 160,
+    "university_name": "Northern School of Contemporary Dance",
+    "town": "Leeds"
+  },
+  {
+    "national_ranking": 78,
+    "university_name": "Northumbria University",
+    "town": "Newcastle"
+  },
+  {
+    "national_ranking": 153,
+    "university_name": "Norwich University of the Arts",
+    "town": "Norwich"
+  },
+  {
+    "national_ranking": 51,
+    "university_name": "Nottingham Trent University",
+    "town": "Nottingham"
+  },
+  {
+    "national_ranking": 66,
+    "university_name": "Oxford Brookes University",
+    "town": "Oxford"
+  },
+  {
+    "national_ranking": 157,
+    "university_name": "Plymouth College of Art",
+    "town": "Plymouth"
+  },
+  {
+    "national_ranking": 54,
+    "university_name": "Plymouth University",
+    "town": "Plymouth"
+  },
+  {
+    "national_ranking": 121,
+    "university_name": "Queen Margaret University",
+    "town": "Edinburgh"
+  },
+  {
+    "national_ranking": 22,
+    "university_name": "Queen Mary University of London",
+    "town": "London"
+  },
+  {
+    "national_ranking": 35,
+    "university_name": "Queen's University Belfast",
+    "town": "Belfast"
+  },
+  {
+    "national_ranking": 128,
+    "university_name": "Ravensbourne",
+    "town": "London"
+  },
+  {
+    "national_ranking": 135,
+    "university_name": "Regent's University London",
+    "town": "London"
+  },
+  {
+    "national_ranking": 145,
+    "university_name": "The American International University in London",
+    "town": "London"
+  },
+  {
+    "national_ranking": 92,
+    "university_name": "Robert Gordon University",
+    "town": "Aberdeen"
+  },
+  {
+    "national_ranking": 158,
+    "university_name": "Rose Bruford College",
+    "town": "London"
+  },
+  {
+    "national_ranking": 126,
+    "university_name": "Royal Academy of Music University of London",
+    "town": "London"
+  },
+  {
+    "national_ranking": 154,
+    "university_name": "Royal Agricultural University",
+    "town": "Cirencester"
+  },
+  {
+    "national_ranking": 67,
+    "university_name": "Royal College of Art",
+    "town": "London"
+  },
+  {
+    "national_ranking": 114,
+    "university_name": "Royal College of Music",
+    "town": "London"
+  },
+  {
+    "national_ranking": 142,
+    "university_name": "Royal Conservatoire of Scotland",
+    "town": "Glasgow"
+  },
+  {
+    "national_ranking": 43,
+    "university_name": "Royal Holloway",
+    "town": "University of London"
+  },
+  {
+    "national_ranking": 130,
+    "university_name": "Royal Northern College of Music",
+    "town": "Manchester"
+  },
+  {
+    "national_ranking": 105,
+    "university_name": "Royal Veterinary College University of London",
+    "town": "London"
+  },
+  {
+    "national_ranking": 94,
+    "university_name": "School of Advanced Study University of London",
+    "town": "London"
+  },
+  {
+    "national_ranking": 122,
+    "university_name": "Scotland's Rural College",
+    "town": "Edinburgh"
+  },
+  {
+    "national_ranking": 45,
+    "university_name": "Sheffield Hallam University",
+    "town": "Sheffield"
+  },
+  {
+    "national_ranking": 50,
+    "university_name": "SOAS University of London",
+    "town": "London"
+  },
+  {
+    "national_ranking": 106,
+    "university_name": "Southampton Solent University",
+    "town": "Southampton"
+  },
+  {
+    "national_ranking": 116,
+    "university_name": "St George's University of London",
+    "town": "London"
+  },
+  {
+    "national_ranking": 134,
+    "university_name": "St Mary's University Twickenham",
+    "town": "Twickenham"
+  },
+  {
+    "national_ranking": 93,
+    "university_name": "Staffordshire University",
+    "town": "Stoke-on-Trent"
+  },
+  {
+    "national_ranking": 42,
+    "university_name": "Swansea University",
+    "town": "Swansea"
+  },
+  {
+    "national_ranking": 97,
+    "university_name": "Teesside University",
+    "town": "Middlesbrough"
+  },
+  {
+    "national_ranking": 103,
+    "university_name": "The Courtauld Institute of Art University of London",
+    "town": "London"
+  },
+  {
+    "national_ranking": 6,
+    "university_name": "The London School of Economics and Political Science",
+    "town": "London"
+  },
+  {
+    "national_ranking": 138,
+    "university_name": "The Royal Central School of Speech and Drama",
+    "town": "London"
+  },
+  {
+    "national_ranking": 118,
+    "university_name": "The University of Buckingham",
+    "town": "Buckingham"
+  },
+  {
+    "national_ranking": 4,
+    "university_name": "The University of Edinburgh",
+    "town": "Edinburgh"
+  },
+  {
+    "national_ranking": 64,
+    "university_name": "The University of Hull",
+    "town": "Hull"
+  },
+  {
+    "national_ranking": 144,
+    "university_name": "The University of Law",
+    "town": "Guildford"
+  },
+  {
+    "national_ranking": 5,
+    "university_name": "The University of Manchester",
+    "town": "Manchester"
+  },
+  {
+    "national_ranking": 99,
+    "university_name": "The University of Northampton",
+    "town": "Northampton"
+  },
+  {
+    "national_ranking": 12,
+    "university_name": "The University of Nottingham",
+    "town": "Nottingham"
+  },
+  {
+    "national_ranking": 17,
+    "university_name": "The University of Sheffield",
+    "town": "Sheffield"
+  },
+  {
+    "national_ranking": 11,
+    "university_name": "The University of Warwick",
+    "town": "Coventry"
+  },
+  {
+    "national_ranking": 120,
+    "university_name": "The University of Winchester",
+    "town": "Winchester"
+  },
+  {
+    "national_ranking": 16,
+    "university_name": "The University of York",
+    "town": "York"
+  },
+  {
+    "national_ranking": 139,
+    "university_name": "Trinity Laban Conservatoire of Music and Dance",
+    "town": "London"
+  },
+  {
+    "national_ranking": 82,
+    "university_name": "Ulster University",
+    "town": "Coleraine"
+  },
+  {
+    "national_ranking": 147,
+    "university_name": "University College Birmingham",
+    "town": "Birmingham"
+  },
+  {
+    "national_ranking": 3,
+    "university_name": "University College London",
+    "town": "London"
+  },
+  {
+    "national_ranking": 123,
+    "university_name": "University for the Creative Arts",
+    "town": "Canterbury"
+  },
+  {
+    "national_ranking": 30,
+    "university_name": "University of Aberdeen",
+    "town": "Aberdeen"
+  },
+  {
+    "national_ranking": 125,
+    "university_name": "University of Abertay Dundee",
+    "town": "Dundee"
+  },
+  {
+    "national_ranking": 25,
+    "university_name": "University of Bath",
+    "town": "Bath"
+  },
+  {
+    "national_ranking": 95,
+    "university_name": "University of Bedfordshire",
+    "town": "Luton"
+  },
+  {
+    "national_ranking": 27,
+    "university_name": "University of Birmingham",
+    "town": "Birmingham"
+  },
+  {
+    "national_ranking": 112,
+    "university_name": "University of Bolton",
+    "town": "Bolton"
+  },
+  {
+    "national_ranking": 100,
+    "university_name": "University of Bradford",
+    "town": "Bradford"
+  },
+  {
+    "national_ranking": 60,
+    "university_name": "University of Brighton",
+    "town": "Brighton"
+  },
+  {
+    "national_ranking": 28,
+    "university_name": "University of Bristol",
+    "town": "Bristol"
+  },
+  {
+    "national_ranking": 2,
+    "university_name": "University of Cambridge",
+    "town": "Cambridge"
+  },
+  {
+    "national_ranking": 77,
+    "university_name": "University of Central Lancashire",
+    "town": "Preston"
+  },
+  {
+    "national_ranking": 108,
+    "university_name": "University of Chester",
+    "town": "Chester"
+  },
+  {
+    "national_ranking": 141,
+    "university_name": "University of Chichester",
+    "town": "Chichester"
+  },
+  {
+    "national_ranking": 129,
+    "university_name": "University of Cumbria",
+    "town": "Carlisle"
+  },
+  {
+    "national_ranking": 91,
+    "university_name": "University of Derby",
+    "town": "Derby"
+  },
+  {
+    "national_ranking": 39,
+    "university_name": "University of Dundee",
+    "town": "Dundee"
+  },
+  {
+    "national_ranking": 29,
+    "university_name": "University of East Anglia",
+    "town": "Norwich"
+  },
+  {
+    "national_ranking": 86,
+    "university_name": "University of East London",
+    "town": "London"
+  },
+  {
+    "national_ranking": 38,
+    "university_name": "University of Essex",
+    "town": "Colchester"
+  },
+  {
+    "national_ranking": 20,
+    "university_name": "University of Exeter",
+    "town": "Exeter"
+  },
+  {
+    "national_ranking": 8,
+    "university_name": "University of Glasgow",
+    "town": "Glasgow"
+  },
+  {
+    "national_ranking": 111,
+    "university_name": "University of Gloucestershire",
+    "town": "Cheltenham"
+  },
+  {
+    "national_ranking": 63,
+    "university_name": "University of Greenwich",
+    "town": "London"
+  },
+  {
+    "national_ranking": 57,
+    "university_name": "University of Hertfordshire",
+    "town": "Hatfield"
+  },
+  {
+    "national_ranking": 88,
+    "university_name": "University of Huddersfield",
+    "town": "Huddersfield"
+  },
+  {
+    "national_ranking": 23,
+    "university_name": "University of Kent",
+    "town": "Canterbury"
+  },
+  {
+    "national_ranking": 7,
+    "university_name": "University of Leeds",
+    "town": "Leeds"
+  },
+  {
+    "national_ranking": 18,
+    "university_name": "University of Leicester",
+    "town": "Leicester"
+  },
+  {
+    "national_ranking": 89,
+    "university_name": "University of Lincoln",
+    "town": "Lincoln"
+  },
+  {
+    "national_ranking": 33,
+    "university_name": "University of Liverpool",
+    "town": "Liverpool"
+  },
+  {
+    "national_ranking": 68,
+    "university_name": "University of London",
+    "town": "London"
+  },
+  {
+    "national_ranking": 1,
+    "university_name": "University of Oxford",
+    "town": "Oxford"
+  },
+  {
+    "national_ranking": 48,
+    "university_name": "University of Portsmouth",
+    "town": "Portsmouth"
+  },
+  {
+    "national_ranking": 32,
+    "university_name": "University of Reading",
+    "town": "Reading"
+  },
+  {
+    "national_ranking": 101,
+    "university_name": "University of Roehampton",
+    "town": "Roehampton"
+  },
+  {
+    "national_ranking": 55,
+    "university_name": "University of Salford",
+    "town": "Salford"
+  },
+  {
+    "national_ranking": 83,
+    "university_name": "University of South Wales",
+    "town": "Pontypridd"
+  },
+  {
+    "national_ranking": 9,
+    "university_name": "University of Southampton",
+    "town": "Southampton"
+  },
+  {
+    "national_ranking": 21,
+    "university_name": "University of St Andrews",
+    "town": "St Andrews"
+  },
+  {
+    "national_ranking": 146,
+    "university_name": "University of St Mark and St John",
+    "town": "Plymouth"
+  },
+  {
+    "national_ranking": 58,
+    "university_name": "University of Stirling",
+    "town": "Stirling"
+  },
+  {
+    "national_ranking": 36,
+    "university_name": "University of Strathclyde",
+    "town": "Glasgow"
+  },
+  {
+    "national_ranking": 90,
+    "university_name": "University of Sunderland",
+    "town": "Sunderland"
+  },
+  {
+    "national_ranking": 24,
+    "university_name": "University of Surrey",
+    "town": "Guildford"
+  },
+  {
+    "national_ranking": 26,
+    "university_name": "University of Sussex",
+    "town": "Brighton"
+  },
+  {
+    "national_ranking": 40,
+    "university_name": "University of the Arts London",
+    "town": "London"
+  },
+  {
+    "national_ranking": 96,
+    "university_name": "University of the Highlands and Islands",
+    "town": "Inverness"
+  },
+  {
+    "national_ranking": 44,
+    "university_name": "University of the West of England",
+    "town": "Bristol"
+  },
+  {
+    "national_ranking": 117,
+    "university_name": "University of the West of Scotland",
+    "town": "Paisley"
+  },
+  {
+    "national_ranking": 143,
+    "university_name": "University of Wales",
+    "town": "Cardiff"
+  },
+  {
+    "national_ranking": 133,
+    "university_name": "University of Wales Trinity Saint David",
+    "town": "Carmarthen"
+  },
+  {
+    "national_ranking": 115,
+    "university_name": "University of West London",
+    "town": "Ealing"
+  },
+  {
+    "national_ranking": 76,
+    "university_name": "University of Westminster",
+    "town": "London"
+  },
+  {
+    "national_ranking": 79,
+    "university_name": "University of Wolverhampton",
+    "town": "Wolverhampton"
+  },
+  {
+    "national_ranking": 137,
+    "university_name": "University of Worcester",
+    "town": "Worcester"
+  },
+  {
+    "national_ranking": 131,
+    "university_name": "York St John University",
+    "town": "York"
+  }
+]
